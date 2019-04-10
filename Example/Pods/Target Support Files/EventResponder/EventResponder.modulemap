@@ -1,0 +1,6 @@
+framework module EventResponder {
+  umbrella header "EventResponder-umbrella.h"
+
+  export *
+  module * { export * }
+}

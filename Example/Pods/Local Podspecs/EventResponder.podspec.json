@@ -1,0 +1,22 @@
+{
+  "name": "EventResponder",
+  "version": "0.1.0",
+  "summary": "A short description of EventResponder.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/王承权/EventResponder",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "王承权": "wangchengquan@qiyi.com"
+  },
+  "source": {
+    "git": "https://github.com/王承权/EventResponder.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "EventResponder/Classes/**/*"
+}

@@ -1,0 +1,16 @@
+PODS:
+  - EventResponder (0.1.0)
+
+DEPENDENCIES:
+  - EventResponder (from `../`)
+
+EXTERNAL SOURCES:
+  EventResponder:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  EventResponder: 142b929b8d965bf9646f604492fcd25ebbcabc81
+
+PODFILE CHECKSUM: dd1381566f1b58a24c8491528efa4c6b7079e4bc
+
+COCOAPODS: 1.5.3
